@@ -4,6 +4,17 @@
 
 Suspension bridges are renowned for their elegant design and long spans, but they also pose unique engineering challenges. The collapse of the Tacoma Narrows Bridge in 1940 serves as a stark reminder of these challenges, as it was attributed to "aeroelastic flutter," a phenomenon characterized by the oscillation of the bridge deck in the wind. This readme discusses the application of differential equations to model the dynamics of such bridges.
 
+**File Structure:**
+
+1. **Code.py**: Contains the Python code for simulating suspension bridge dynamics.
+
+2. **Documentation.docx**: Comprehensive documentation detailing the usage and theory behind the code.
+
+3. **Poster.pdf**: A visual poster summarizing key findings or aspects of the project.
+
+4. **Summary.docx**: A concise summary of the project for quick reference.
+
+
 ## Methodology
 
 The dynamics of suspension bridges can be described by a second-order nonlinear differential equation:
